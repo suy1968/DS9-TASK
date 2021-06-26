@@ -1,1 +1,2 @@
-# DS9-TASK
+# DS9
+ Consider the dataset named iris dataset  which consists of data of different species and their attributes. Perform the following operations to the dataset: a. Import the data set b. Store the split data into separate variables. c. Create a naive Bayes model on the training dataset d. Now predict the data model for a testing dataset that you have separated in bit b. Upload the file which contains the code for the above operations. 
